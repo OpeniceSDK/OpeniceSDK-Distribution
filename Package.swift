@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpeniceSDK",
-            url: "https://github.com/OpeniceSDK/OpeniceSDK-Distribution/releases/download/1/OpeniceSDK-test-1.0.5.xcframework.zip",
-            checksum: "84967fe740b37cdf6dd47b5bd6173c11a0c9c75505eb6c34328ddb7f26b1fecd"
+            url: "https://github.com/OpeniceSDK/OpeniceSDK-Distribution/releases/download/v1.0.0/OpeniceSDK-v1.0.0.xcframework.zip",
+            checksum: "ff1852d7972c3997e6e8f0b4b3d1f8ed42645e079878c521e35138fc18bf1b70"
         )
     ]
 )
